@@ -1,5 +1,6 @@
 ﻿
 using DapperWeek2;
+using DapperWeek2.Factory;
 
 
 DatabaseCreator dbCreator = new SQLServerDatabaseCreator();

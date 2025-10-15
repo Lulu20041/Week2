@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Configuration;
 
 
-namespace DapperWeek2
+namespace DapperWeek2.Database
 {
     class SQLServerDatabase : IDatabase
     {
