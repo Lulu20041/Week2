@@ -1,11 +1,10 @@
-﻿using DapperWeek2.Factory;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DapperWeek2
+namespace DapperWeek2.Database.Factory
 {
     class SQLServerDatabaseCreator : DatabaseCreator
     {
